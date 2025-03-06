@@ -24,7 +24,7 @@ The user interface of the tool looks like this:
 9. This will show all the triggered rules and details about the anlaysis.
 
 # Tool's Working
-1. After providing a Case Name, appropriate directory, and selecting the analysis option, Click Analyze button to start the analysis.
+1. After providing a Case Name, appropriate directory, and selecting the analysis option, click Analyze button to start the analysis.
   - For Log Analysis, you just have to provide the directory containing Linux Logs.
   - For Advance analysis, you have to provide the UAC (a Linux Data collection Tool) output directory. It should look like this:
 ![image](https://github.com/user-attachments/assets/e94293c7-2208-4424-9cbd-41d41cc3c342)
