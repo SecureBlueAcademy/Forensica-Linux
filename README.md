@@ -1,4 +1,4 @@
-# Forensica-Linux
+# Forensica-Linux (A Linux Forensics Tool)
 A python based tool (works on Windows) for Linux log and UAC data collection analysis.
 
 Forensica-Linux is a python based tool. Currently, it can perform two functions. 
