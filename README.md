@@ -1,6 +1,6 @@
 # Forensica-Linux: A Powerful Linux Log Analysis Tool  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)  
 
 Forensica-Linux is a Python-based tool designed for efficient and comprehensive Linux log and UAC data collection analysis.  It's designed to help security analysts and forensic investigators quickly identify potential security incidents and anomalies within Linux systems.  Works on Windows, providing cross-platform usability.  
 
@@ -9,7 +9,7 @@ Forensica-Linux is a Python-based tool designed for efficient and comprehensive 
 *   **Linux Log Analysis:**  Analyze Linux logs for suspicious activity based on predefined rules.  
 *   **Advanced Analysis (UAC Data):**  Leverage data collected from the UAC tool (another Linux Data collection Tool) for deeper insights into system behavior, cron jobs, bash history, and temporary files.  
 
-**Get Started!** [Link to your installation instructions if available]  
+**Get Started!**
 
 ## Table of Contents  
 
@@ -70,6 +70,6 @@ We welcome your feedback and contributions to help improve Forensica-Linux! Plea
 
 ## License  
 
-Forensica-Linux is licensed under the [MIT License](LICENSE).  
+Forensica-Linux is an open-source, free to use for anyone.
 
 Happy Forensics!
